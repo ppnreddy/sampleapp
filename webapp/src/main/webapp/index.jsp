@@ -1,7 +1,1 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-  <title>CI-CD Process</title>
-</head>
-</html>
+http://52.66.201.180:2020
