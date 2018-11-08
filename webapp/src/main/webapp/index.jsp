@@ -1,8 +1,1 @@
-<HTML>
-
-<HEAD>
-
-<TITLE>DEVOPS Learning</TITLE>
-
-</HEAD>
-<HTML>
+Welcome to Devops .....................
